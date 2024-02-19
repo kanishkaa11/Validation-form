@@ -1,0 +1,9 @@
+body{
+    background-color: pink;
+    display: grid;
+    height: 100vh;
+    place-items: center;
+ }
+.error {
+    color: red;
+}
